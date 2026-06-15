@@ -1,0 +1,113 @@
+{
+  "entities": [
+    {
+      "ref": "C496731",
+      "name": "CoinJar Europe Limited",
+      "trading_name": "CoinJar",
+      "auth_date": "9 December 2025",
+      "services": "(a) custody; (c) exchange fiat; (d) exchange crypto; (j) transfer services",
+      "passporting": 29,
+      "other_services": "CASP, VASP"
+    },
+    {
+      "ref": "C570624",
+      "name": "Confirmo Limited",
+      "trading_name": "",
+      "auth_date": "16 December 2025",
+      "services": "(c) exchange fiat; (d) exchange crypto; (j) transfer services",
+      "passporting": 29,
+      "other_services": "CASP, Payment Service Provider"
+    },
+    {
+      "ref": "C423427",
+      "name": "Interactive Brokers Ireland Limited",
+      "trading_name": "",
+      "auth_date": "22 January 2026",
+      "services": "(g) reception and transmission of orders",
+      "passporting": 29,
+      "other_services": "CASP, MiFID Investment Firm"
+    },
+    {
+      "ref": "C535172",
+      "name": "Legend Financial Ireland Limited",
+      "trading_name": "",
+      "auth_date": "10 October 2025",
+      "services": "(c) exchange fiat; (d) exchange crypto",
+      "passporting": 29,
+      "other_services": "CASP, VASP"
+    },
+    {
+      "ref": "C184986",
+      "name": "Paysafe Payment Solutions Limited",
+      "trading_name": "Skrill",
+      "auth_date": "3 December 2025",
+      "services": "(a) custody; (c) exchange fiat; (d) exchange crypto; (j) transfer services",
+      "passporting": 29,
+      "other_services": "CASP, EMI, VASP"
+    },
+    {
+      "ref": "C468360",
+      "name": "Payward Europe Solutions Limited",
+      "trading_name": "Kraken",
+      "auth_date": "25 June 2025",
+      "services": "(a) custody; (c) exchange fiat; (d) exchange crypto; (e) order execution; (f) placing; (g) reception & transmission; (i) portfolio management; (j) transfer services",
+      "passporting": 29,
+      "other_services": "CASP, Payment Service Provider, VASP"
+    },
+    {
+      "ref": "C559106",
+      "name": "Payward Global Solutions Limited",
+      "trading_name": "Kraken",
+      "auth_date": "25 June 2025",
+      "services": "(b) operation of a trading platform",
+      "passporting": 1,
+      "other_services": "CASP"
+    },
+    {
+      "ref": "C496936",
+      "name": "Pionew Ireland Limited",
+      "trading_name": "Webot",
+      "auth_date": "18 December 2025",
+      "services": "(a) custody; (b) trading platform; (c) exchange fiat; (j) transfer services",
+      "passporting": 11,
+      "other_services": "CASP, Payment Service Provider, VASP"
+    },
+    {
+      "ref": "C528869",
+      "name": "Push Virtual Assets Ireland Limited",
+      "trading_name": "Aave Push, Push",
+      "auth_date": "12 November 2025",
+      "services": "(c) exchange fiat; (d) exchange crypto",
+      "passporting": 28,
+      "other_services": "CASP, VASP"
+    },
+    {
+      "ref": "C515693",
+      "name": "Ramp Swaps (Ireland) Limited",
+      "trading_name": "",
+      "auth_date": "2 December 2025",
+      "services": "(c) exchange fiat",
+      "passporting": 29,
+      "other_services": "CASP, VASP"
+    },
+    {
+      "ref": "C526524",
+      "name": "StoneX Digital International Ltd",
+      "trading_name": "",
+      "auth_date": "19 December 2025",
+      "services": "(a) custody; (c) exchange fiat; (d) exchange crypto; (e) order execution; (g) reception & transmission; (j) transfer services",
+      "passporting": 29,
+      "other_services": "CASP, Payment Service Provider, VASP"
+    },
+    {
+      "ref": "C93329",
+      "name": "Virtu Financial Ireland Limited",
+      "trading_name": "",
+      "auth_date": "28 April 2026",
+      "services": "(c) exchange fiat; (d) exchange crypto",
+      "passporting": 29,
+      "other_services": "CASP, MiFID Investment Firm"
+    }
+  ],
+  "date": "2026-06-15T14:18:57.189615+00:00"
+}
