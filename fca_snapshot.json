@@ -1,35 +1,35 @@
 {
   "entities": [
     {
-      "frn": "1000741",
-      "name": "Paypal UK Ltd",
+      "frn": "1021141",
+      "name": "Keyrock UK Limited",
       "trading_names": [],
       "status": "Registered",
       "mlrs_status": "MLRs Registered",
-      "mlrs_date": "31/10/2023",
+      "mlrs_date": "25/06/2025",
       "business_type": "MLD cryptoassets",
       "website": "",
       "town": "London"
     },
     {
-      "frn": "928840",
-      "name": "BCP TECHNOLOGIES LTD",
+      "frn": "1007192",
+      "name": "CEX.IO Markets UK LTD",
       "trading_names": [],
       "status": "Registered",
       "mlrs_status": "MLRs Registered",
-      "mlrs_date": "03/12/2021",
+      "mlrs_date": "11/03/2026",
       "business_type": "MLD cryptoassets",
       "website": "",
       "town": "London"
     },
     {
-      "frn": "900635",
-      "name": "CB Payments Ltd",
+      "frn": "990940",
+      "name": "Portofino Technologies UK Ltd",
       "trading_names": [],
       "status": "Registered",
       "mlrs_status": "MLRs Registered",
-      "mlrs_date": "03/02/2025",
-      "business_type": "EMD",
+      "mlrs_date": "27/02/2024",
+      "business_type": "MLD cryptoassets",
       "website": "",
       "town": "London"
     },
@@ -45,12 +45,34 @@
       "town": "London"
     },
     {
-      "frn": "999863",
-      "name": "BNXA UK VASP Limited",
+      "frn": "930442",
+      "name": "Enigma Securities Ltd",
       "trading_names": [],
       "status": "Registered",
       "mlrs_status": "MLRs Registered",
-      "mlrs_date": "09/02/2024",
+      "mlrs_date": "24/12/2021",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "928783",
+      "name": "Ramp Swaps Limited",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "20/07/2021",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "1035380",
+      "name": "IG Digital Assets Limited",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "30/09/2025",
       "business_type": "MLD cryptoassets",
       "website": "",
       "town": "London"
@@ -67,13 +89,79 @@
       "town": "Edinburgh"
     },
     {
-      "frn": "938277",
-      "name": "Uphold Europe Limited",
+      "frn": "927859",
+      "name": "ICONOMI LTD",
       "trading_names": [],
       "status": "Registered",
       "mlrs_status": "MLRs Registered",
-      "mlrs_date": "17/02/2022",
+      "mlrs_date": "21/10/2021",
       "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "941745",
+      "name": "FORIS DAX UK LIMITED",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "16/08/2022",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "1018980",
+      "name": "GSR Markets UK Limited",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "31/12/2024",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "900562",
+      "name": "Revolut Ltd",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "26/09/2022",
+      "business_type": "EMD",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "828692",
+      "name": "Hidden Road Partners CIV UK Ltd",
+      "trading_names": [],
+      "status": "Authorised",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "20/12/2022",
+      "business_type": "Regulated",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "757895",
+      "name": "Crypto Facilities Ltd",
+      "trading_names": [],
+      "status": "Authorised",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "17/11/2021",
+      "business_type": "Regulated",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "208159",
+      "name": "Interactive Brokers (U.K.) Limited",
+      "trading_names": [],
+      "status": "Authorised",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "12/06/2023",
+      "business_type": "Regulated",
       "website": "",
       "town": "London"
     },
@@ -100,303 +188,6 @@
       "town": "London"
     },
     {
-      "frn": "928347",
-      "name": "Zodia Custody Limited",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "15/07/2021",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": ""
-    },
-    {
-      "frn": "1012912",
-      "name": "BPX Markets Limited",
-      "trading_names": [],
-      "status": "Authorised",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "29/05/2025",
-      "business_type": "Regulated",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "928767",
-      "name": "CoinJar UK Limited",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "27/09/2021",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "746273",
-      "name": "DRW GLOBAL MARKETS LTD",
-      "trading_names": [],
-      "status": "Authorised",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "07/06/2022",
-      "business_type": "Regulated",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "208159",
-      "name": "Interactive Brokers (U.K.) Limited",
-      "trading_names": [],
-      "status": "Authorised",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "12/06/2023",
-      "business_type": "Regulated",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "927401",
-      "name": "Baanx.com Ltd",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "16/12/2021",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "Cambridge"
-    },
-    {
-      "frn": "928556",
-      "name": "Bitpanda Custody Ltd",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "04/10/2021",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "563834",
-      "name": "Strata Global Limited",
-      "trading_names": [],
-      "status": "Authorised",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "27/03/2026",
-      "business_type": "Regulated",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "928764",
-      "name": "Wintermute Trading LTD",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "25/02/2022",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "1021141",
-      "name": "Keyrock UK Limited",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "25/06/2025",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "921481",
-      "name": "OANDA Coinpass Limited",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "26/08/2021",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "838656",
-      "name": "Archax Ltd",
-      "trading_names": [],
-      "status": "Authorised",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "18/08/2020",
-      "business_type": "Regulated",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "757895",
-      "name": "Crypto Facilities Ltd",
-      "trading_names": [],
-      "status": "Authorised",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "17/11/2021",
-      "business_type": "Regulated",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "954558",
-      "name": "Zodia Markets (UK) Limited",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "27/07/2022",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "900562",
-      "name": "Revolut Ltd",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "26/09/2022",
-      "business_type": "EMD",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "925234",
-      "name": "BITPANDA BROKER UK LTD",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "11/10/2021",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "990940",
-      "name": "Portofino Technologies UK Ltd",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "27/02/2024",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "901033",
-      "name": "Zumo Financial Services Limited",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "10/12/2021",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "Edinburgh"
-    },
-    {
-      "frn": "928783",
-      "name": "Ramp Swaps Limited",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "20/07/2021",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "900988",
-      "name": "Gemini Payments UK, LTD",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "19/08/2020",
-      "business_type": "EMD",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "1037671",
-      "name": "AGANT FINANCE LIMITED",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "11/02/2026",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "Stirling"
-    },
-    {
-      "frn": "927859",
-      "name": "ICONOMI LTD",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "21/10/2021",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "1007192",
-      "name": "CEX.IO Markets UK LTD",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "11/03/2026",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "828692",
-      "name": "Hidden Road Partners CIV UK Ltd",
-      "trading_names": [],
-      "status": "Authorised",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "20/12/2022",
-      "business_type": "Regulated",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "928768",
-      "name": "PAYWARD LTD.",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "23/11/2021",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "933825",
-      "name": "ABEX Capital UK Limited",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "07/04/2022",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "1031720",
-      "name": "Push Labs Limited",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "12/05/2026",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
       "frn": "1036678",
       "name": "BC Operations Limited",
       "trading_names": [],
@@ -408,89 +199,12 @@
       "town": "Stockport"
     },
     {
-      "frn": "900696",
-      "name": "Clear Junction Digital Limited",
+      "frn": "978690",
+      "name": "Bitstamp UK Limited",
       "trading_names": [],
       "status": "Registered",
       "mlrs_status": "MLRs Registered",
-      "mlrs_date": "20/12/2021",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "985974",
-      "name": "Komainu UK Limited",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "06/10/2023",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "921817",
-      "name": "GEMINI INTERGALACTIC UK, LTD",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "19/08/2020",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "900977",
-      "name": "Ziglu Limited",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "01/09/2020",
-      "business_type": "EMD",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "930442",
-      "name": "Enigma Securities Ltd",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "24/12/2021",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "1028021",
-      "name": "RIPPLE MARKETS UK LTD",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "09/01/2026",
-      "business_type": "EMD",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "114276",
-      "name": "Standard Chartered Bank",
-      "trading_names": [],
-      "status": "Authorised",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "14/07/2025",
-      "business_type": "Regulated",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "928554",
-      "name": "FIDELITY DIGITAL ASSETS, LTD",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "18/11/2021",
+      "mlrs_date": "13/06/2023",
       "business_type": "MLD cryptoassets",
       "website": "",
       "town": "London"
@@ -507,17 +221,6 @@
       "town": "London"
     },
     {
-      "frn": "941745",
-      "name": "FORIS DAX UK LIMITED",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "16/08/2022",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
       "frn": "146880",
       "name": "TP ICAP E&C Limited",
       "trading_names": [],
@@ -529,12 +232,56 @@
       "town": "London"
     },
     {
-      "frn": "583263",
-      "name": "ETORO (UK) LIMITED",
+      "frn": "746273",
+      "name": "DRW GLOBAL MARKETS LTD",
       "trading_names": [],
       "status": "Authorised",
       "mlrs_status": "MLRs Registered",
-      "mlrs_date": "14/01/2022",
+      "mlrs_date": "07/06/2022",
+      "business_type": "Regulated",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "925234",
+      "name": "BITPANDA BROKER UK LTD",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "11/10/2021",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "921817",
+      "name": "GEMINI INTERGALACTIC UK, LTD",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "19/08/2020",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "928768",
+      "name": "PAYWARD LTD.",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "23/11/2021",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "114276",
+      "name": "Standard Chartered Bank",
+      "trading_names": [],
+      "status": "Authorised",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "14/07/2025",
       "business_type": "Regulated",
       "website": "",
       "town": "London"
@@ -551,15 +298,70 @@
       "town": "London"
     },
     {
-      "frn": "978690",
-      "name": "Bitstamp UK Limited",
+      "frn": "1037671",
+      "name": "AGANT FINANCE LIMITED",
       "trading_names": [],
       "status": "Registered",
       "mlrs_status": "MLRs Registered",
-      "mlrs_date": "13/06/2023",
+      "mlrs_date": "11/02/2026",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "Stirling"
+    },
+    {
+      "frn": "1028021",
+      "name": "RIPPLE MARKETS UK LTD",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "09/01/2026",
+      "business_type": "EMD",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "928764",
+      "name": "Wintermute Trading LTD",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "25/02/2022",
       "business_type": "MLD cryptoassets",
       "website": "",
       "town": "London"
+    },
+    {
+      "frn": "928556",
+      "name": "Bitpanda Custody Ltd",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "04/10/2021",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "900635",
+      "name": "CB Payments Ltd",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "03/02/2025",
+      "business_type": "EMD",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "119179",
+      "name": "Baillie Gifford & Co Limited",
+      "trading_names": [],
+      "status": "Authorised",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "22/06/2026",
+      "business_type": "Regulated",
+      "website": "",
+      "town": "Edinburgh"
     },
     {
       "frn": "849446",
@@ -573,23 +375,122 @@
       "town": "London"
     },
     {
-      "frn": "944716",
-      "name": "MoonPay (UK) Limited",
+      "frn": "901033",
+      "name": "Zumo Financial Services Limited",
       "trading_names": [],
       "status": "Registered",
       "mlrs_status": "MLRs Registered",
-      "mlrs_date": "09/12/2022",
+      "mlrs_date": "10/12/2021",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "Edinburgh"
+    },
+    {
+      "frn": "928554",
+      "name": "FIDELITY DIGITAL ASSETS, LTD",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "18/11/2021",
       "business_type": "MLD cryptoassets",
       "website": "",
       "town": "London"
     },
     {
-      "frn": "1016940",
-      "name": "Cleartoken Depository Limited",
+      "frn": "933825",
+      "name": "ABEX Capital UK Limited",
       "trading_names": [],
       "status": "Registered",
       "mlrs_status": "MLRs Registered",
-      "mlrs_date": "11/11/2025",
+      "mlrs_date": "07/04/2022",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "900977",
+      "name": "Ziglu Limited",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "01/09/2020",
+      "business_type": "EMD",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "563834",
+      "name": "Strata Global Limited",
+      "trading_names": [],
+      "status": "Authorised",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "27/03/2026",
+      "business_type": "Regulated",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "928767",
+      "name": "CoinJar UK Limited",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "27/09/2021",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "927401",
+      "name": "Baanx.com Ltd",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "16/12/2021",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "Cambridge"
+    },
+    {
+      "frn": "1000741",
+      "name": "Paypal UK Ltd",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "31/10/2023",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "999863",
+      "name": "BNXA UK VASP Limited",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "09/02/2024",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "900988",
+      "name": "Gemini Payments UK, LTD",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "19/08/2020",
+      "business_type": "EMD",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "900696",
+      "name": "Clear Junction Digital Limited",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "20/12/2021",
       "business_type": "MLD cryptoassets",
       "website": "",
       "town": "London"
@@ -606,12 +507,122 @@
       "town": "London"
     },
     {
-      "frn": "1018980",
-      "name": "GSR Markets UK Limited",
+      "frn": "1012912",
+      "name": "BPX Markets Limited",
+      "trading_names": [],
+      "status": "Authorised",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "29/05/2025",
+      "business_type": "Regulated",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "928910",
+      "name": "Transak Limited",
       "trading_names": [],
       "status": "Registered",
       "mlrs_status": "MLRs Registered",
-      "mlrs_date": "31/12/2024",
+      "mlrs_date": "04/01/2022",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": ""
+    },
+    {
+      "frn": "583263",
+      "name": "ETORO (UK) LIMITED",
+      "trading_names": [],
+      "status": "Authorised",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "14/01/2022",
+      "business_type": "Regulated",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "1016940",
+      "name": "Cleartoken Depository Limited",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "11/11/2025",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "985974",
+      "name": "Komainu UK Limited",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "06/10/2023",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "944716",
+      "name": "MoonPay (UK) Limited",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "09/12/2022",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "921481",
+      "name": "OANDA Coinpass Limited",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "26/08/2021",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "938277",
+      "name": "Uphold Europe Limited",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "17/02/2022",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "928347",
+      "name": "Zodia Custody Limited",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "15/07/2021",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": ""
+    },
+    {
+      "frn": "1031720",
+      "name": "Push Labs Limited",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "12/05/2026",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
+      "frn": "928840",
+      "name": "BCP TECHNOLOGIES LTD",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "03/12/2021",
       "business_type": "MLD cryptoassets",
       "website": "",
       "town": "London"
@@ -628,6 +639,17 @@
       "town": "London"
     },
     {
+      "frn": "954558",
+      "name": "Zodia Markets (UK) Limited",
+      "trading_names": [],
+      "status": "Registered",
+      "mlrs_status": "MLRs Registered",
+      "mlrs_date": "27/07/2022",
+      "business_type": "MLD cryptoassets",
+      "website": "",
+      "town": "London"
+    },
+    {
       "frn": "1022133",
       "name": "ASSET REALITY LTD",
       "trading_names": [],
@@ -639,38 +661,16 @@
       "town": "London"
     },
     {
-      "frn": "1035380",
-      "name": "IG Digital Assets Limited",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "30/09/2025",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": "London"
-    },
-    {
-      "frn": "119179",
-      "name": "Baillie Gifford & Co Limited",
+      "frn": "838656",
+      "name": "Archax Ltd",
       "trading_names": [],
       "status": "Authorised",
       "mlrs_status": "MLRs Registered",
-      "mlrs_date": "22/06/2026",
+      "mlrs_date": "18/08/2020",
       "business_type": "Regulated",
       "website": "",
-      "town": "Edinburgh"
-    },
-    {
-      "frn": "928910",
-      "name": "Transak Limited",
-      "trading_names": [],
-      "status": "Registered",
-      "mlrs_status": "MLRs Registered",
-      "mlrs_date": "04/01/2022",
-      "business_type": "MLD cryptoassets",
-      "website": "",
-      "town": ""
+      "town": "London"
     }
   ],
-  "date": "2026-07-08T11:01:23.535897+00:00"
+  "date": "2026-07-08T11:21:51.948811+00:00"
 }
